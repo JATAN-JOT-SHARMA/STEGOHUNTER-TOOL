@@ -58,6 +58,50 @@ StegoHunter provides automated scanning, suspicious activity detection, file ana
 ---
 
 
+---
+
+# ⚙️ Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Python | Core Development |
+| CustomTkinter | GUI Interface |
+| Pillow | Image Processing |
+| NumPy | Data Analysis |
+| OpenCV | Image Analysis |
+| Cryptography | Security Functions |
+| ReportLab | PDF Report Generation |
+
+---
+
+# 📂 Supported File Types
+
+| File Type | Status |
+|-----------|--------|
+| JPG / JPEG | ✅ Supported |
+| PNG | ✅ Supported |
+| BMP | ✅ Supported |
+| WAV | ✅ Supported |
+| Other Formats | ⚡ Experimental |
+
+---
+
+# 💻 Installation
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/yourusername/StegoHunter.git
+
+### 2. Navigate to Project
+cd StegoHunter
+
+### 3. Install Dependencies
+pip install -r requirements.txt
+
+
+### 4. ▶️ Run Application
+python stegohunter.py
 
 
 
