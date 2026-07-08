@@ -103,7 +103,4 @@ pip install -r requirements.txt
 ### 4. ▶️ Run Application
 python stegohunter.py
 
-
-
-
 # 🏗️ Project Architecture
