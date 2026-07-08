@@ -7,7 +7,9 @@
 
 ## 📌 Overview
 
-**StegoHunter** is an advanced digital forensics and cybersecurity tool designed to detect, analyze, and investigate hidden data inside multimedia files using steganography detection techniques.
+StegoHunter is an advanced digital forensics tool that detects, analyzes, and removes hidden steganographic content from images, audio, and other media files while identifying suspicious data-hiding techniques and generating detailed forensic reports.
+
+StegoHunter is a  digital forensics and cybersecurity tool designed to investigate hidden data inside multimedia files using steganography detection techniques.
 
 The tool helps security researchers, forensic analysts, and cybersecurity professionals identify suspicious files containing hidden messages, malicious payloads, or unauthorized data concealed within images, audio, and other digital media.
 
