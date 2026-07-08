@@ -54,10 +54,6 @@ StegoHunter provides automated scanning, suspicious activity detection, file ana
 - Drag and drop file scanning.
 - Real-time scanning status.
 - Easy navigation for investigators.
-
----
-
-
 ---
 
 # ⚙️ Technology Stack
@@ -102,5 +98,3 @@ pip install -r requirements.txt
 
 ### 4. ▶️ Run Application
 python stegohunter.py
-
-# 🏗️ Project Architecture
